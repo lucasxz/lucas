@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,400,700');
+html {
+  height: 100%;
+}
+body {
+  height 100%;
+  background: #171C28 url('../images/curve.svg') no-repeat right bottom;
+  background-size: 50%;
+}
+
+.main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  font-size: 7.85vw;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  color: white;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  font-size: 1.3vw;
+  color: white;
+  text-align: right;
+  margin-top: 0;
+  margin-right: 3%;
+}
+
+.description {
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+  font-size: 1.5vw;
+  color: white;
+  margin-left: 1%;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.contact {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.3vw;
+  background-color: white;
+  display: block;
+  width: 12em;
+  padding: 0.5em;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 1%;
+
+}
